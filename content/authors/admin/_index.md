@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Welcome to my homepage! I am currently a master student at Duke University, in the Department of Statistical Science. My research interests include machine learning theory, optimization and statistics in general. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my homepage! I am currently a master student at Duke University, in the Department of Statistical Science. Previously, I received a bachelor’s degree in Mathematics from Peking University. My research interests include machine learning theory, optimization and statistics in general. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
