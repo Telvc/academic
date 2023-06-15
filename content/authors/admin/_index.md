@@ -3,8 +3,8 @@
 title: Zihan Zhu
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zihan
+last_name: Zhu
 
 # Status emoji
 status:
