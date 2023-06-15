@@ -1,6 +1,6 @@
 ---
 # Display name
-  title: Zihan Zhu
+  title: Zihan Zhu 朱子晗
 
 # Full name (for SEO)
 first_name: Zihan
