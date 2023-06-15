@@ -40,7 +40,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: BSc in Pure Mathematics
-      institution: Massachusetts Institute of Technology
+      institution: Peking University
       year: 2022
 
 # Social/Academic Networking
