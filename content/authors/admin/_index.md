@@ -33,9 +33,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MSc in Statistical Science
       institution: Duke University
       year: 2024
