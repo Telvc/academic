@@ -37,8 +37,8 @@ education:
       institution: Stanford University
       year: 2012
     - course: MSc in Statistical Science
-      institution: Massachusetts Institute of Technology
-      year: 2009
+      institution: Duke University
+      year: 2024
     - course: BSc in Pure Mathematics
       institution: Peking University
       year: 2022
