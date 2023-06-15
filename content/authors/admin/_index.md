@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zihan Zhu 吳恩達
+title: Zihan Zhu
 
 # Full name (for SEO)
 first_name: Alice
