@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student of Statistical Science
+role: Master Student in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
