@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Statistical Science
+    - course: MSc in Statistics
       institution: Duke University
       year: 2024 (expected)
     - course: BSc in Pure Mathematics
