@@ -36,7 +36,7 @@ education:
     - course: MSc in Statistics
       institution: Duke University
       year: 2024 (expected)
-    - course: BSc in Pure Mathematics
+    - course: BSc in Mathematics
       institution: Peking University
       year: 2022
 
