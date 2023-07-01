@@ -78,4 +78,6 @@ highlight_name: true
 ---
 
 Welcome to my homepage! I am currently a master student at Duke University, in the Department of Statistical Science. Previously, I received a bachelor’s degree in Mathematics from Peking University. My research interests include machine learning theory, optimization and statistics in general.
+
+I am closely working with Prof. Zhuoran Yang and Prof. Ethan X. Fang on game theory and reinforcement learning, and with Prof. Anru Zhang on high-dimensional inference.
 {style="text-align: justify;"}
