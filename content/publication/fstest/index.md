@@ -18,7 +18,7 @@ publishDate: "2023-11-01T00:00:00Z"
 # publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Manuscript"
+publication: "Manuscript, in preparation for *Biometrika*"
 publication_short: ""
 
 abstract:  In the analysis of Electronic Health Records (EHR), clustering patients according to patterns in their data is crucial for uncovering new subtypes of diseases. Existing medical literature often relies on classical hypothesis testing methods to test for differences in means between these clusters. Due to selection bias induced by clustering algorithms, the implementation of these classical methods on post-clustering data often leads to an inflated Type I error. In our study, we introduce a new statistical approach that adjusts for this bias when analyzing data collected over time. Our method extends classical selective inference methods for cross-sectional data to longitudinal data via the utilization of kernel regression. We provide theoretical guarantees for our approach with upper bounds on the selective type-I and type-II errors. We apply the method to simulated data and real-world Acute Kidney Injury (AKI) EHR datasets, thereby illuminating the advantages of our approach.
