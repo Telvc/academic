@@ -34,7 +34,7 @@ links:
   # url: http://example.org
 url_pdf: https://openreview.net/pdf?id=IdF7VT6eEs
 
-url_pdf: https://openreview.net/pdf?id=IdF7VT6eEs
+url_pdf: http
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
