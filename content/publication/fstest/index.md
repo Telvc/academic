@@ -1,9 +1,10 @@
 ---
-title: "Computational and Statistical Thresholds in Multi-layer Stochastic Block Models"
+title: "Functional Post-Clustering Selective Inference with Applications to
+EHR Data Analysis"
 authors:
-- Lei Jing
-- Anru R. Zhang
 - admin
+- Xin Gai
+- Anru R. Zhang
 date: "2023-11-01T00:00:00Z"
 doi: ""
 
