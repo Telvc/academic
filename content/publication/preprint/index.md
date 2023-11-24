@@ -32,7 +32,7 @@ abstract: We study multi-agent games within the innovative framework of decision
 links: uploads/resume.pdf
 # - name: Custom Link
   # url: http://example.org
-url_pdf: https://openreview.net/pdf?id=IdF7VT6eEs
+url_pdf: publication/preprint/OPGD_journal.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
