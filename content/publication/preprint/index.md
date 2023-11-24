@@ -2,6 +2,8 @@
 title: "Online Performative Gradient Descent for Learning Nash Equilibria in Decision-Dependent Games"
 authors:
 - admin
+- Ethan X. Fang
+- Zhuoran Yang
 date: "2023-10-07T00:00:00Z"
 doi: ""
 
