@@ -62,9 +62,7 @@ url_pdf: https://openreview.net/pdf?id=IdF7VT6eEs
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
----
 
----
 title: "Online Performative Gradient Descent for Learning Nash Equilibria in Decision-Dependent Games"
 authors:
 - admin
