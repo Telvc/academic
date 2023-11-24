@@ -29,7 +29,7 @@ abstract: We study multi-agent games within the innovative framework of decision
 # - Source Themes
 # featured: false
 
-links:
+links: uploads/resume.pdf
 # - name: Custom Link
   # url: http://example.org
 url_pdf: https://openreview.net/pdf?id=IdF7VT6eEs
