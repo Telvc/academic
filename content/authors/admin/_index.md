@@ -22,13 +22,13 @@ organizations:
     url: https://www.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning theory, optimization and statistics in general.
+bio: My research interests include machine learning, optimization and statistics in general.
 
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Optimization
   - Statistics
+  - Operation research
 
 # Education to show in About widget
 education:
