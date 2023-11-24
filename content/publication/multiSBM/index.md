@@ -20,7 +20,7 @@ publishDate: "2023-11-01T00:00:00Z"
 publication: "Submitted to *Annals of Statistics*"
 publication_short: ""
 
-abstract:  We study the problem of community recovery and detection in multi-layer stochastic block models, focusing on the critical network density threshold for consistent community structure inference. Using a prototypical two-block model, we reveal a computational barrier for such multi-layer stochastic block models that does not exist for its single-layer counterpart: When there are no computational constraints, the density threshold depends linearly on the number of layers. However, when restricted to polynomial-time algorithms, the density threshold scales with the square root of the number of layers, assuming correctness of a low-degree polynomial hardness conjecture. Our results provide a nearly complete picture of the optimal inference in multiple-layer stochastic block models and partially settle the open question in Jing Lei (2022) regarding the optimality of the bias-adjusted spectral method.
+abstract:  We study the problem of community recovery and detection in multi-layer stochastic block models, focusing on the critical network density threshold for consistent community structure inference. 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
