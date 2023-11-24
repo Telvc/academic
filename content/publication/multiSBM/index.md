@@ -1,14 +1,14 @@
 ---
-title: "Online Performative Gradient Descent for Learning Nash Equilibria in Decision-Dependent Games"
+title: "Computational and Statistical Thresholds in Multi-layer Stochastic Block Models"
 authors:
+- Lei Jing
+- Anru R. Zhang
 - admin
-- Ethan X. Fang
-- Zhuoran Yang
-date: "2023-10-07T00:00:00Z"
+date: "2023-11-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: "2023-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,10 +17,10 @@ publishDate: "2023-10-01T00:00:00Z"
 # publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "37th Annual Conference on Neural Information Processing Systems (NeurIPS), 2023"
+publication: "Submitted to *Annals of Statistics*"
 publication_short: ""
 
-abstract: We study multi-agent games within the innovative framework of decision-dependent games, which establishes a feedback mechanism that population data reacts to agents’ actions and further characterizes the strategic interactions among agents. We focus on finding the Nash equilibrium of decision-dependent games in the bandit feedback setting. However, since agents are strategically coupled, classical gradient-based methods are infeasible without the gradient oracle. To overcome this challenge, we model the strategic interactions by a general parametric model and propose a novel online algorithm, Online Performative Gradient Descent (OPGD), which leverages the ideas of online stochastic approximation and projected gradient descent to learn the Nash equilibrium in the context of function approximation for the unknown gradient. In particular, under mild assumptions on the function classes defined in the parametric model, we prove that the OPGD algorithm finds the Nash equilibrium efficiently for strongly monotone decision-dependent games. Synthetic numerical experiments validate our theory.
+abstract: We study the problem of community recovery and detection in multi-layer stochastic block models, focusing on the critical network density threshold for consistent community structure inference. Using a prototypical two-block model, we reveal a computational barrier for such multi-layer stochastic block models that does not exist for its single-layer counterpart: When there are no computational constraints, the density threshold depends linearly on the number of layers. However, when restricted to polynomial-time algorithms, the density threshold scales with the square root of the number of layers, assuming correctness of a low-degree polynomial hardness conjecture. Our results provide a nearly complete picture of the optimal inference in multiple-layer stochastic block models and partially settle the open question in Jing Lei (2022) regarding the optimality of the bias-adjusted spectral method.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -32,7 +32,7 @@ abstract: We study multi-agent games within the innovative framework of decision
 links: 
 # - name: Custom Link
   # url: http://example.org
-url_pdf: https://openreview.net/pdf?id=IdF7VT6eEs
+url_pdf: https://arxiv.org/pdf/2311.07773.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
