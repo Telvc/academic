@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Publications & Manuscripts
       filters:
         folders:
           - publication
