@@ -33,7 +33,7 @@ abstract:  In the analysis of Electronic Health Records (EHR), clustering patien
 links: 
 # - name: Custom Link
   # url: http://example.org
-url_pdf: https://arxiv.org/pdf/2311.07773.pdf
+url_pdf: uploads/working_paper_fstest.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
